@@ -1,0 +1,815 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and lively character of a right communicating church-member briefely laid down in eighteen severall arguments: proving an absolute necessity of separating, not only, from all that are openly prophane, but from such also, who have not some visible, that is to say, probable worke of the sanctifying spirit upon them. By Iohn Gobert Master of Arts, and minister of the Gospel.</title>
+            <author>Gobert, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42884</idno>
+            <idno type="STC">Wing G904B</idno>
+            <idno type="STC">ESTC R217419</idno>
+            <idno type="EEBO-CITATION">99829086</idno>
+            <idno type="PROQUEST">99829086</idno>
+            <idno type="VID">33522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33522)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1986:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and lively character of a right communicating church-member briefely laid down in eighteen severall arguments: proving an absolute necessity of separating, not only, from all that are openly prophane, but from such also, who have not some visible, that is to say, probable worke of the sanctifying spirit upon them. By Iohn Gobert Master of Arts, and minister of the Gospel.</title>
+                  <author>Gobert, John.</author>
+               </titleStmt>
+               <extent>[8], 16, [2], 17-24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Sumptner for Tho: Brewster, and Greg: Moule, at the three Bibles under Mildreds Church in the Poultry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: That a true church ought only to be gathered of visible saints, and that men either openly wicked, or meerely civill; that is to say, such as are not seen beside their formall profession, to have some worke of the Spirit upon them, ought not to bee taken into church-fellowship.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproductions of the original in the British Library and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33522:1" rendition="simple:additions"/>
+            <p>A true and lively CHARACTER Of a right COMMUNICATING Church-Member; Brifely laid down in Eighteen ſeve<g ref="char:EOLhyphen"/>rall ARGUMENTS: Proving an abſolute neceſsity of ſe<g ref="char:EOLhyphen"/>parating, not only, from all that are openly Prophane, but from ſuch alſo, who have not ſome viſible, that is to ſay, probable worke of the ſanctifying Spirit upon them.</p>
+            <p>
+               <hi>By</hi> IOHN GOBERT <hi>Maſter of Arts, and Miniſter of the Goſpel.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Charles Sumptner</hi> for <hi>Tho: Brewſter,</hi> and <hi>Greg: Moule,</hi> at the three Bibles under <hi>Mildreds Church</hi> in the <hi>Poultry.</hi> 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33522:2" rendition="simple:additions"/>
+            <pb facs="tcp:33522:2"/>
+            <head>THE AVTHOR TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Or the Author to commend his owne Work, if it were praiſe-worthy, yet tis altogether improper, remembring the old ſaying, <hi>Laudet te os alie<g ref="char:EOLhyphen"/>num, non tuum:</hi> And indeed it deſerves no praiſe, chiefly for the manner of handling, when in reading the very firſt page, thou wilt meet with many Inconſonances, even to Grammar; wherein the Author confeſſeth his weak<g ref="char:EOLhyphen"/>neſſe, and craves thy pardon: Moreover, ceaſe to marveile, for theſe papers were written by a dead man; nevertheleſſe I counſell thee to read this Book, and weigh the matter, de<g ref="char:EOLhyphen"/>light thy ſelf in ſeeking the truth, and ſo then wilt begin to un<g ref="char:EOLhyphen"/>derſtand the Riddle, how a dead man may write Books.</p>
+            <closer>
+               <signed>Thine,
+JOHN GOBERT.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33522:3" rendition="simple:additions"/>
+            <pb facs="tcp:33522:3"/>
+            <head>To the High Court of Parliament, AND To the Councell of State, AS ALSO To His Excellency; <hi>Thomas</hi> Lord <hi>Fairfax,</hi> Lord Generall of all the Parliaments Forces.</head>
+            <argument>
+               <p>
+                  <hi>John Gobert</hi> Miniſter of the Word, wiſheth increaſe of Grace and Happineſſe here and hereafter.</p>
+            </argument>
+            <opener>
+               <salute>Right Honeurable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He holy Apoſtle, exhorting to Chriſti<g ref="char:EOLhyphen"/>an duties, among other important Ex<g ref="char:EOLhyphen"/>hortations, hath this one, <hi>viz.</hi> That <hi>we ought to be alwayes ready to give an an<g ref="char:EOLhyphen"/>ſwer to every one that asketh a reaſon of the hope that is in us, with meekneſſe and reverence,</hi> 1 Pet. 3. 15. If in the performance of this duty, we are obli<g ref="char:EOLhyphen"/>ged to one, much more to many; if to ſuch as have not Power to Examine, much ſooner to ſuch as have: And although your ſuppliant not being cald upon to
+<pb facs="tcp:33522:4"/>
+give an anſwer, might in this particular juſtly plead Exemption, as one, who in this boldneſſe, might ſeem rather to Create a buſineſſe to himſelfe, than to performe any task impoſed: Yet, as often as he con<g ref="char:EOLhyphen"/>fidereth, firſt, the condition of his Calling, being both a Miniſter of the <hi>Goſpel,</hi> &amp; a Member of the <hi>Commonwealth.</hi> Secondly, the condition of the preſent Times, being (in ſome reſpects) the Worſt, as they are the Laſt, wherein Sathan, and all his malignant Inſtruments, do by all wayes and means, ſeek what they can, to ob<g ref="char:EOLhyphen"/>ſtruct and retard (at leaſt) if not utterly to overthrow, that bleſſed work of Reformation ſo happily begun by you. Thirdly, reflecting upon thoſe (too juſt<g ref="char:EOLhyphen"/>ly grounded Feares and Jealouſies which your Ho<g ref="char:EOLhyphen"/>nours yet have) leſt the people of this Nation, chief<g ref="char:EOLhyphen"/>ly thoſe of our Calling, ſhould be over-much want<g ref="char:EOLhyphen"/>ting to themſelves, in not joyning with you in your Endeavours to promote the Churches good. I ſay, from theſe; and the like conſiderations, your Sup<g ref="char:EOLhyphen"/>pliant could not but preſume, that it would not be al<g ref="char:EOLhyphen"/>together unwelcome, or ill taken, if a poore Miniſter of the Goſpel, in a matter of ſuch deepe Concern<g ref="char:EOLhyphen"/>ment, upon which, the whole Fabrick of this bleſ<g ref="char:EOLhyphen"/>ſed Reformation, as upon its proper Hinge, turneth; but hath alſo, as farre as concerneth an Externall Church-communion, an influence into the Rights and Priviledges of all the Faithfull. Do chuſe for this once, and in this ſo weighty a Matter, to deliver his judgment, not that he attributeth any thing to this weake and light skirmiſh which he hath ſet upon; or that this moſt Excellent Cauſe, ſhould from the Authors handling it, ſeeme to receive any Grace or
+<pb facs="tcp:33522:4"/>
+Luſtre: He is farre from conceiving any ſuch impro<g ref="char:EOLhyphen"/>bability; His only Aime and Deſigne in this under<g ref="char:EOLhyphen"/>taking, was partly to give an occaſion to the Reader, from the light which doe ſo manifeſtly breake forth in this briefe Polemicall diſcourſe, to give occaſion to thinke how great good might (in this Subject-mat<g ref="char:EOLhyphen"/>ter) to the Churches further Edification be done. If ſome one of ſtronger Gifts, or greater Abilities, would undert<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke it, partly being as a Spectator, induced to be<g ref="char:EOLhyphen"/>hold the fru<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of <hi>Rebecca,</hi> finding two contrary births to ſtruggle in her wombe, I meane the bleſſed iſ<g ref="char:EOLhyphen"/>ſue of all th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Church-agonies which theſe latter times have afforded, I could not, but in the Spirit admire with <hi>Moſes</hi> at this great ſight, and to become an humble Suitor to all your Honours, that ſince this <hi>Zara,</hi> which in the Primitive times did even then put forth his hand to become the Firſt borne, and yet, for cauſes beſt knowne to the Divine Majeſty, hath puld back his hand againe in that; for moſt of the Ages ſince the Churches Infancy, this <hi>Zara,</hi> for the ſcarlet thread of Light and Truth, which Divine Provi<g ref="char:EOLhyphen"/>dence, like <hi>Tamars</hi> Midwife, did even (as it were) <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n put about his hand, hath made all the Spectators ſince that time, rather to looke and wiſh for <hi>Zara's</hi> birth, than to ſee it; but loe now this <hi>Zara</hi> is come: <hi>Pha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> the firſt borne, I mean, the party-coloured, or exter<g ref="char:EOLhyphen"/>nally-ſpotted Church-Member, ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h already acted his part, too well knowne to all ſpectators, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the many fearfull breaches, which to others ſcandall, and his owne greater loſſe and diſparagement he hath made in the Wombe of the Church. Loe now his brother <hi>Zara</hi> is borne, to be knowne to all that are ſpir<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tually
+<pb facs="tcp:33522:5"/>
+ſighted, by the ſcarlet thread of Light and Truth a<g ref="char:EOLhyphen"/>bout him. Receive him therefore, I moſt humbly be<g ref="char:EOLhyphen"/>ſeech your Honours: He calleth upon, and cryeth to God, as his Father; and upon your Honours, as both Midwife and Nurſe. Therefore, as you have in the proviſion of the ſincere Milke of the Word, ſhewed your tender care of this younger Brothers inward Man; you would alſo vouchſafe every <hi>Zara</hi> your Protection from the wrong and violence of his Mo<g ref="char:EOLhyphen"/>thers children, who would faigne make him Keeper of their Vineyard.</p>
+            <p>
+               <hi>My meaning is, that according to the Place and Power God hath ſet you in, you would be Patrons and Pro<g ref="char:EOLhyphen"/>tectors of the Sonnes of Peace, that Miniſters, or Peo<g ref="char:EOLhyphen"/>ple, might not daſh themſelves one againſt another, with ſeveritie, and auſteritie, for matters Circumſtan<g ref="char:EOLhyphen"/>tiall, whiles both hold the Head, Christ. So ſhall you oblige thouſands, and my ſelfe among the reſt, with much love in the Lord Chriſt to ſerve you.</hi>
+            </p>
+            <closer>
+               <signed>Your Honours moſt humbly devoted, in all Services to his power,
+JOHN GOBERT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:33522:5"/>
+            <head>That a true Church ought only to be gathered of viſible Saints, and that men either openly wicked, or meerely civill; that is to ſay, ſuch as are not ſeen beſide their formall pro<g ref="char:EOLhyphen"/>feſſion, to have ſome worke of the Spirit upon them, ought not to bee taken into Church-fellowſhip.</head>
+            <argument>
+               <p>
+                  <hi>Theſe following arguments doe moſt manifeſtly prove the firſt argument is taken from Chriſts example, in gathering his Diſciples.</hi>
+               </p>
+            </argument>
+            <p>
+               <hi>Thus,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">W</seg>Hatſoever work or practiſe doe abhor from Chriſts example, and in that alſo wherein we can follow him; that kind of worke or practiſe is not lawfull; but to gather a Church other then of viſible Saints, doth abhor, and is repugnant to Chriſts example and practiſe, and in that alſo wherein we can follow him, <hi>ergo,</hi> to gather a Church of ſuch as are not viſible Saints, is not lawfull.</p>
+            <p>The major propoſition is apparent, becauſe wee are bound to be<g ref="char:EOLhyphen"/>come followers of him <hi>as deare children, Epheſ. 5. 1. Paul,</hi> that great Archi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ct of the Churches of the Gentiles, would have the <hi>Co<g ref="char:EOLhyphen"/>rinthians</hi> follow him as he followed Chriſt. 1 <hi>Cor. 1. 11. And he h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft us an example, that we ſhould follow his ſteps,</hi> 1 P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t. 2<g ref="char:punc">▪</g> 21. And in this as in other practices for two cauſes;</p>
+            <p>Firſt, 'Tis the duty of ſuch as are Church-gatherers, to ſeparate the pretious from the vile.</p>
+            <p>Secondly, Becauſe the Apoſtles did in this particular work exactly follow Chriſts example. 1 <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 2. 5. 1 Cor. 1, 2<g ref="char:punc">▪</g> 9. 2 Cor. 6. 15, 16. Acts</hi> 2. 41, 42. If it be excepted againſt, in anſwer to the major propoſition, that 'tis not f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll and ſufficient, that Chriſts example is not, though imitable, yet in this cauſe, at all binding the Churches in gathering their members; and the reaſon they will alledge, is, that ſo Prelacy and Presbytery may come in for a <hi>jus d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vinum</hi> in matter of Church-government, for that they alſo can fetch examples from
+<pb n="2" facs="tcp:33522:6"/>
+the Scripture to warrant their cauſe againſt all opponents; to which is againe replyed, <hi>negando,</hi> wee deny that there is any ſuch example as this in all the Scripture to warrant a <hi>jus divinum,</hi> either for Presbyte<g ref="char:EOLhyphen"/>ry, or Prelacy, becauſe we are to diſtinguiſh betweene Chriſts a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Apoſtles examples, ſuch as may be called occaſion all, ariſing onely from circumſtance of time, perfers and places not ſimply binding, but are to the preſent Church as arbitrary and prudentiall wayes, to uſe and refuſe as they ſee cauſe: and examples of this kinde are nothing materiall for a <hi>jus divinum,</hi> though they be derived from Scripture.</p>
+            <p>A ſecond ſort of examples are ſuch as may be called morall, ſuch as hold forth duties and graces which ought to be in Chriſtians of this nature, is the ſubject matter we now ſpeak of, and are binding to all who deſire to keepe faith and a good conſcience; ſo that the major prop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion will ſtand valid againſt all oppoſers.</p>
+            <p>For the proofe of the minor we need goe no further then to Chriſts 12. Apoſtles, an exact pattern of all Churches which ought to be under the New Teſtament<g ref="char:punc">▪</g> when all were Saints to the eye of others, <hi>J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>das</hi> not once ſuſpected by any of the eleven.</p>
+            <p>Secondly, We argue from the ſeverall ends of gathering Churches, which are,</p>
+            <p>1. That God may be glorified in his Saints.</p>
+            <p>2. That ſuch as be gathered, may be further edified and built up.</p>
+            <p>3. That others may be daily added to the Churches alread<g ref="char:punc">▪</g> gathe<g ref="char:EOLhyphen"/>red; that an unqualified Church gathering of ſuch as have been hither<g ref="char:EOLhyphen"/>to for the moſt part in this Nation, is repugnant to all theſe ends, will be abundantly proved.</p>
+            <p>And firſt an argument in generall, <hi>viz.</hi> as a gatherig of Church<g ref="char:EOLhyphen"/>members not viſibly holy, is repugnant to all theſe ends, thus,</p>
+            <p>Whatſoever is oppoſite and repugnant to thoſe ends for which Churches are to be gather<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, is not in the gathering of them to be ad<g ref="char:EOLhyphen"/>mitted, or practiſed; but to gather Church-members other then of viſible Saints, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> repugnant to the ends for which Churches are to be gathered; therefore to gather Churches of members not viſibly holy, is not to be practiſed.</p>
+            <p>The major propoſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion will be granted by all parties.</p>
+            <p>The minor remaineth to be proved by parts:</p>
+            <p>Firſt, That any other gathering then ſuch as are viſibly holy, is re<g ref="char:EOLhyphen"/>pugnant to Gods honou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, thus;</p>
+            <p>Whoſoever are not inabled by the Spirit in ſome meaſure to ſhew
+<pb n="3" facs="tcp:33522:6"/>
+forth the vertues which God hath given them, all ſuch are moſt unfit to be gathered into Church-fellowſhip; for the proofe hereof, ſee 1 <hi>Pet.</hi> 2. 9. But men either openly ſcandalous, or meerely civill: and meerly civill, we call not only ſuch as have no principle of Religion in them, but ſuch alſo as are barely taught of men by way of catechi<g ref="char:EOLhyphen"/>zing, I ſay ſuch canno<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhew forth their vertues, therefore they are not to be gathered into Church fellowſhip: If any will except againſt the d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcription of a civ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll honeſt man, a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> who hath in him, and is a<g ref="char:EOLhyphen"/>ble <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o anſwer to the grounds of Religion, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>z how ſuch a man can be c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d one meerly civill: W<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> very well, becauſe the Scrip<g ref="char:EOLhyphen"/>ture will no where warrant any middle betweene a civill man and a Saint, 1 <hi>Cor. Chap.</hi> 1. to <hi>verſe</hi> 9. is a men ſed proofe of this, if a man be call<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to be a Saint; we or not to underſtand of an outward call, but ſuch as call<g ref="char:punc">▪</g> as wher<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are pro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly at leaſt ſanct<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied in Chriſt Jeſus<g ref="char:punc">▪</g> and therefore the Apoſtle putteth theſe two together, <hi>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nctified in Chriſt Jeſus,</hi> and <hi>Saints by calling;</hi> to ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w that none are to goe for Saints, or be counted Church members, which have not b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſide the bare knowledge of the grounds of Religion, ſome worke of the Spirit on them; ſee for this in <hi>John</hi> 17 20, 21. whence we may briefly thus argue.</p>
+            <p>All that profeſſeth Chriſt ought to be one among themſelves, <hi>as Chriſt is one with the Father;</hi> but ſuch kind<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of members, <hi>viz.</hi> men mee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly civill, or openly ſcandalous, cannot <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> one with the Saints, as Chriſt is one with the Father, therefore ſuc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e not to be taken in for Church-members.</p>
+            <p>As to the propoſition, there will be no other evaſion for anſwer, then to ſay, that the place forecited is to be underſtood of Saints invi<g ref="char:EOLhyphen"/>ſibly holy, ſuch as may be endued with holineſſe, though not gathered into Church-fellowſhip, to which, thus;</p>
+            <p>Firſt, in this anſwer is a fallacy, we call a <hi>peti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io principii,</hi> or beg<g ref="char:EOLhyphen"/>ging of the queſtion; for it runs upon this ſuppoſall, that there is ſuch a Church-creature as a civill wel-catechized honeſt man, and to make way for ſuch a creature, all Scriptures now which doe in their na<g ref="char:EOLhyphen"/>ture exclude, are by ſuppoſing, ſuch an one to be, brought by the op<g ref="char:EOLhyphen"/>ponent to uphold him, but this remaineth yet to be prove<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>Secondly, Againſt ſuch an anſwer we urge the words of the Text, and that in two reſpects;</p>
+            <p>1. In reſpect of the nature of the union, which the words hol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forth; <hi>John 17. 21. That they may be all one, as thou Father art in mee
+<pb n="4" facs="tcp:33522:7"/>
+and I in thee, that they may be alſo one in us, that the world may believe that thou haſt ſent me.</hi> And <hi>verſ. 23. I in them, and thou in mee, that they may be made perfect in one, and that the world may know that thou haſt ſent me, &amp; haſt loved them as thou haſt loved me,</hi> whence wee firſt argue,</p>
+            <p>Whatſoever union in the Church doe not hold a ſtrict and a ſpeciall or ſpecificall (if I may ſo ſpeake) reſemblance to that moſt bleſ<g ref="char:EOLhyphen"/>ſed and ſacred union which is between the Father and the Son, that is not the union commended or intended by our Saviour in this Scripture: but to ſay, that Chriſt in holding forth an union which ought to be in the Church, underſtood it only of an in<g ref="char:EOLhyphen"/>ternall or ſpirituall union, and not alſo of an externall, doth this, <hi>viz.</hi> it urgeth ſuch an union as cannot hold reſemblance to that moſt ſacred union which is between the Father and the Sonne, therefore the internall union only is not the union inten<g ref="char:EOLhyphen"/>ded by our Saviour.</p>
+            <p>Both propoſitions are ſufficiently manifeſt from the words, if we rightly obſerve, becauſe the condition and perfection of union in the Church ought to be in this world, as is the perfection of unity, which is between the Father and the Sonne. Now this union is moſt perfect, and that alſo whereby the Father and the Sonne doe enjoy each the other mutually, actually, moſt bleſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dly, and immediarely; where one hath a reall influence into the other, for which cauſe the Son, as God is ſaid to live by the Father, <hi>John</hi> 6. 57. Such muſt be the fruition as far as is imitable by a creature in a Church-member, they ought to be where this union can be had, each to other, and in a ſpi<g ref="char:EOLhyphen"/>rituall and convenient way<g ref="char:punc">▪</g> as is the Father to the Son, or the Sonne to the Father, but in members ſcattered abroad as the Scripture ſpea<g ref="char:EOLhyphen"/>keth, there cannot be that reſemblance of perfection of unity as is be<g ref="char:EOLhyphen"/>tween the Father and the Sonne, becauſe that ſort of Members are of<g ref="char:EOLhyphen"/>ten diſtreſſed for want of fellowſhip with their fellow Saints, as was <hi>Eſiah,</hi> who deſired to live no longer, for want of it. And in times of perſecution, for want of this Church-fellowſhip<g ref="char:punc">▪</g> the Saints of God have complained, that they are as an owle in the deſert, or as a Spar<g ref="char:EOLhyphen"/>row on the Houſe top: therefore the 17 chapter of St. <hi>John,</hi> and the like places, muſt be underſtood of the Saints actuall enjoying one ano<g ref="char:EOLhyphen"/>ther, not onely by an internall, but alſo by an externall Church-fel<g ref="char:EOLhyphen"/>lowſhip. I ſay againe, what ſo hath been, and is <hi>de facto,</hi> yet <hi>de jure,</hi> it ought to be, and ſhall be, at Chriſts ſecond coming, in ſpite of
+<pb n="5" facs="tcp:33522:7"/>
+the Devill and all his Malignant Inſtruments.</p>
+            <p>Secondly, We argue from the end of the union intended by our Sa<g ref="char:EOLhyphen"/>viour in theſe words; <hi>That the world may believe, that thou haſt ſent mee.</hi>
+            </p>
+            <p>Whence briefly thus,</p>
+            <p>Whatſoever does keep men from believing that Chriſt is ſent of the Father; That in gathering of a Church is not to be practiſed: but to admit of any for Church members, which doe not viſibly at leaſt reſemble the holineſſe and unity of God and Chriſt, is to keepe men from believing that Chriſt is ſent of the Father; therefore to gather into Church-fellowſhip ſuch as are not viſi<g ref="char:EOLhyphen"/>bly holy, is not to be practiſed.</p>
+            <p>
+               <hi>The minor is thus proved.</hi>
+            </p>
+            <p>Whatſoever is held forth as a fit, ſole, and ſufficient means to gaine men to believe, and is not ſo ordained by God, this cannot gather men unto Chriſt: and conſequently keepeth them from believing, be<g ref="char:EOLhyphen"/>cauſe our Saviour ſaith, <hi>Whoſoever gathereth no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with me, ſcattereth;</hi> but to think that the preaching of the word is this fit, ſole, and ſuffi<g ref="char:EOLhyphen"/>cient meanes, to bring men to Chriſt, is to think otherwiſe then God hath ordained; therefore ſuch as come no better furniſhed to gather believers, doe ſo far keep men from believing that Chriſt is ſent of the Father.</p>
+            <p>The major I ſuppoſe will be denyed by none.</p>
+            <p>The minor is as manifeſt from the Scripture; for though it cannot be denyed that faith commeth by hearing, and hearing by the word, <hi>Rom. 10. 17.</hi> So that the word received by faith i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as the plowed ground ſowen; but I demand then, how can men plough their ground without a plough: All the Scriptures will teſtifie, even from <hi>Gen.</hi> to the end of the <hi>Revel.</hi> that either miracles, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the Church rightly ordered, or rightly gathered, comming in place, have been ever as the plough to the d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctrine of the Goſpell; we ſhall find 3. things requiſite to gaine the world to become believers.</p>
+            <p>1. <hi>Men muſt preach purely, that in point of Doct<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e they may reſem<g ref="char:EOLhyphen"/>ble the Sun.</hi>
+            </p>
+            <p>2. <hi>The potentiall or materiall members to be gathered, muſt in their converſation be faire as the Moone.</hi>
+            </p>
+            <p>3. <hi>This is not all neither; Preachers and Profeſſers for all this will be eſteemed of as a company of imper<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inent and light-headed, or vain<g ref="char:EOLhyphen"/>glorious men; therefore a third thing required, ſhe muſt be terrible
+<pb n="6" facs="tcp:33522:8"/>
+either by miracles or by all right done here as an Armie with ban<g ref="char:EOLhyphen"/>ners.</hi>
+            </p>
+            <p>3. We argue from that 17. of <hi>John,</hi> explained by the Apoſtle, <hi>Eph. 4. 4. 5. One body, one ſpirit, one Lord, one faith, one baptiſme, one God and Father, &amp;c.</hi> whence briefly thus;</p>
+            <p>None are to be taken into the body or externall fellowſhip of the faithfull; but as ſuch are of on<g ref="char:punc">▪</g> faith and one ſpirit with them, 'tis e<g ref="char:EOLhyphen"/>vident; for if it were otherwiſe, there muſt be either 2. bodies, or 2, ſpirits.</p>
+            <p>But civill honeſt men, or men barely catechiſed have not one ſpi<g ref="char:EOLhyphen"/>rit, that is, are not endued with ſpirituall graces as the faithfull are; <hi>Ergo,</hi> they are not to be received into Church fellowſhip with them: both propoſitions muſt be aſſented unto by ſuch as wil take Scripture for their rule.</p>
+            <p>3. We argue from the third end of gathering churches, which is, that members already gathered may be further built up, thus;</p>
+            <p>Whatſoever doth of its own nature threaten the deſtruction, or at leaſt retard the growth of the whole body; that in gathering of a church is not to be ſuffered; but to admit of a member not viſibly ho<g ref="char:EOLhyphen"/>ly, is either to deſtroy the whole, that is, to threaten with deſtruction, becauſe the true members of <hi>Chr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> cannot be uterly, that is to ſay, ſpi<g ref="char:EOLhyphen"/>ritually deſtroyed, or to hinder and retard the growth of other mem<g ref="char:EOLhyphen"/>bers, therefore a mixture of Church members, or taking into Church<g ref="char:EOLhyphen"/>fellowſhip ſuch as are not viſibly holy, is not to be ſuffered.</p>
+            <p>The major will be eaſily granted; becauſe whatſoever is done in a Church, muſt be done to the edification of all: <hi>When one ſins, all are ſcandalized,</hi> 1 Cor. 5. 3. Moreover, ſeverall members in a Church are and muſt be to that Church whereof they are members, as the mem<g ref="char:EOLhyphen"/>bers in a naturall body, whereof all, even the weakeſt muſt ſerve to, and be active for the whole body, as is plainely taught, 1 <hi>Cor. 12. Rom.</hi> 12. 5. All the members of a Church ſhould at leaſt viſibly and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as they ſay, be what the forwardeſt profeſſe they are, be<g ref="char:EOLhyphen"/>cauſe all are acted by the ſame ſpirit of grace, and live the ſame life of faith; they all draw eſſence and growth from one myſticall head, even as the naturall head doth compleat and actuate all it's members, 1 <hi>Cor.</hi> 2. Therefore now if any myſticall member want that ſupply of ſpi<g ref="char:EOLhyphen"/>rituall nouriſhment as the Apoſtle further teacheth, <hi>Epheſ.</hi> 4. 15. It muſt neceſſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ily at leaſt retard and keep back the growth of the whole body; neither can this be underſtood of one that outwardly is good,
+<pb n="7" facs="tcp:33522:8"/>
+and inwardly unſound, becauſe ſuch hurt none but themſelves. The minor propoſition is proved ſufficiently from the Church of the <hi>Jews,</hi> where the coldneſs of moralliſts, whom the Apoſtle calleth <hi>Abrahams</hi> carnall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed did much hinder the growth, and ſcandalize the graces of the truly godly among them, ſee <hi>Lu.</hi> 3. 7. If any will from the blemiſh<g ref="char:EOLhyphen"/>es of the <hi>Jewiſh</hi> Church goe about to affirme, that notwithſtanding all thoſe blemiſhes, our Saviour did not unchurch them, as ſome doe in theſe dayes, ſuch ſhall receive their anſwer at the 8<hi rend="sup">th</hi> Argument in this Treatiſe. In the mean time it will not be amiſſe for ſuch as are better enlightned, to take it for granted, that the maine Remora, or Stop ſhip (if I may ſo call it) of a through-reformation is this uncir<g ref="char:EOLhyphen"/>cumciſed civill-honeſt man, ſuffered to be reputed as a member, and yet by Divine ordinance ought not to be, or to be ſo reputed; of whom Church gatherers have not to ſay as our Saviour of the fruitleſſe fig<g ref="char:EOLhyphen"/>tree, that though it was to be cut downe, yet he expected fruit, and good reaſon, becauſe all this while they were his plant; but of ſuch members as theſe in our Churches, Chriſt would have ſaid, <hi>not why cumbreth it,</hi> but, <hi>wherefore came it into the vineyard?</hi> the vineyard was no place for it.</p>
+            <p>A fourth Argument for the proofe hereof is taken from the proper and ſpecificall nature of a church, thus,</p>
+            <p>That which putteth no difference betweene the Churches of Chriſt and other ſocieties and religious men which are in the world; that in conſtituting and gathering of church members, is not to be admitted; but to allow of members not viſibly holy, is to doe this, <hi>viz.</hi> It put<g ref="char:EOLhyphen"/>teth no difference between the Churches of Chriſt, and other religious which are in the world, therefore ſuch kind of members are not to be allowed.</p>
+            <p>The major propoſition needeth no proofe, for that there muſt be a difference between the churches of Chriſt and other men, their religions muſt not onely differ, but the profeſſors of it, elſe how doe the true churches alwayes contract an odium from the world, how elſe can that of <hi>Iſa.</hi> 8. 18. be made good; <hi>Behold I and the children which thou haſt given mee, are <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or ſign<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and for wonders in Iſrael.</hi> If this difference ought not to be at leaſt in their converſations, how can the world diſclaime them for theirs, who belong to Chriſt. <hi>If you were of the world, the world would love his owne; but I have choſen you out of the world, therefore the world hatetb you,</hi> John 15. 19. 'Tis not their religions that makes them
+<pb n="8" facs="tcp:33522:9"/>
+odious; for 'tis granted by all parties, that though the religion of Chriſt is a paradox to carnall men, yet ſuch as touching profeſſi<g ref="char:EOLhyphen"/>on doe often become profeſſors of that which before they hated, <hi>Quanto retro oderunt, quod nunc amant quiour que dolent odiſſe quod prius reſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rant,</hi> ſaith <hi>Auguſtin</hi> in point of converſion from falſe beliefs, neither is it a form externall which contracteth it; for in this profeſſions may agree; Neither is it the practiſe of moral duty; for if any thing gaineth the worlds affections to the church, 'tis the churches converſation to the world-ward, there<g ref="char:EOLhyphen"/>fore it muſt be their z<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale and their affections for heaven, the ime<g ref="char:EOLhyphen"/>diate fruit of all neceſſary and ſpirituall graces, which cauſeth this hatred from the world, and conſequently putteth a conſtant difference betweene the Churches of Chriſt and other religious profeſſors, as our Saviour ſpeaketh, not ſimply or ſingly of their Religion, but of the perſons, who by the manner of profeſſing it, render themſelves odious, becauſe I have choſen you, therefore the world hatceth you.</p>
+            <p>The aſſumption or the minor propoſition proveth it ſelf ſomething too manifeſtly, for ſetting aſide the empty and bare title of infant bap<g ref="char:EOLhyphen"/>tiſme, with a little knowledge by roſe, which ſome meetly catechiſed in the chriſtian profeſſion may attaine unto; which for curioſity<g ref="char:punc">▪</g> ſake, or other ends, a J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w or a Turke may be ſo far principled in, as we for the like ends may aff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to be ſeen in the knowledg of the Jewiſh <hi>Tal<g ref="char:EOLhyphen"/>mud,</hi> or the Turkiſh <hi>Al<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ron.</hi> I ſay againe, ſetting theſe things aſide which concerne the profeſſion it ſelfe, not the profeſſors of it, what difference now in point of z<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale and ſuitable converſation betweene hundreds of ſomething more then our common profeſſors, and an ho<g ref="char:EOLhyphen"/>neſt Turk or a J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w; for doth not meer nature and morality teach men to think ſomething rever<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly of any thing they account for Religion, be the profeſſion what it will, are we then ſaid <hi>to be riſen with Chriſt, to live the ſome life that he liveth,</hi> to be continually acted by the ſpirit, and all this to have no more zeale to our religion which we grant for true, a defiance to all other, then a Turk or a J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w have to theirs, a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſit.</p>
+            <p>
+               <hi>A fifth A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gument to prove our purpoſe is taken, both</hi> a poſſibili &amp; comm<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>do, <hi>that is to ſay, from that which is both poſſible to be done, and beſt to be done, thus,</hi>
+            </p>
+            <p>Whatſoever may well be done, and what is moſt profitable to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e done, that in a work of weight and moment ought not to be negl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted; but to gather viſible Saints or members viſibly holy, is a thing <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth
+<pb n="9" facs="tcp:33522:9"/>
+which may be done, and which is moſt profitable to be done. <hi>Ergo,</hi> in ſo weighty a worke it ought not to be neglected.</p>
+            <p>The Minor is ſufficiently evident, becauſe in all our purpoſes and undertakings, we ought to go the neereſt and ſpeedieſt way to the effecting of any thing, much more when 'tis of ſpeciall weight and concernment.</p>
+            <p>The minor propoſition is proved by parts: Firſt, That it may be done; and this, firſt, from the power the true Church hath ever had, both in taking in, and caſting out of Members. All do grant, Papiſts, <hi>Lutherans,</hi> and others, that the Church Governours, rightly qualified, do receive from Gods Spirit a power of diſcerning Mem<g ref="char:EOLhyphen"/>bers worthy and unworthy, as farre as concerneth the conſtitution of a viſible Member; leaving the inner man to God; elſe what uſe of the keyes; why ſhould that hold bound in heaven, and looſed in heaven, which by them is bound and looſed on earth? Moreover, that which makes them known to the world, may eaſily make them known one to another, or to ſuch as can better judge: But the viſi<g ref="char:EOLhyphen"/>ble holineſſe is known in part to the world, therefore farre ſooner to ſuch as have better judgements, <hi>John 13. 19. By this ſhall all men know that ye are my Diſciples, if ye have love one towards another.</hi> Further<g ref="char:EOLhyphen"/>more, of one and the ſame thing, there is the ſame reaſon and conſi<g ref="char:EOLhyphen"/>deration: But it is granted by all parties, one and other, who pro<g ref="char:EOLhyphen"/>feſſe the Chriſtian Religion, That holineſſe may viſibly or probably, (which is enough for the conſtituting of a Church-member) appeare in ſome; why not in others alſo; ſince holineſſe, whereverit is, is to ſin and corruption, as light is to darkneſſe, or as life to death; the for<g ref="char:EOLhyphen"/>mer common ſenſe teacheth may be diſcerned; why ſhould not faith alſo diſcerne ſuch qualified Members; therefore out of all doubt or queſtion it is a thing may be done.</p>
+            <p>The ſixth Argument is drawn from the great benefit which will come of ſuch a qualified Church-gathering, thus:</p>
+            <p>Whatſoever does moſt anger and ſalt the corruptions of men, and ſo diſpoſeth them to a bleſſed care, that is the beſt way, and likelieſt to do moſt good: But this doth the gathering of ſuch qual<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied mem<g ref="char:EOLhyphen"/>bers, it doth moſt anger and ſalt mens corruptions. <hi>Ergo,</hi> it is a ne<g ref="char:EOLhyphen"/>ceſſary medium to cure men of thr maladies of ſin, and conſequently a moſt profitable worke.</p>
+            <p>The major Propoſition will be granted, without further proofe, becauſe all that are taught of God, do know, that though to anger
+<pb n="10" facs="tcp:33522:10"/>
+men ſimply, may prove ſcandalous; yet to anger mens corruptions is profitable to diſpoſe them to repentance.</p>
+            <p>The Minor, which is, that the taking of viſible Saints, onely in<g ref="char:EOLhyphen"/>to Church-fellowſhip, have moſt angered the world, is proved di<g ref="char:EOLhyphen"/>verſly; firſt, from that which hath been done, the converſion of ſoules, and gathering of Churches; ſecondly, that which is daily done for this end and purpoſe.</p>
+            <p>For the firſt, what other worke provoked the envy of Chriſt and his Apoſtles malignant Countrymen, then the effectuall worke of their preaching, to the gathering of men into an holy ſociety and fraternity among themſelves? It is granted by all that are godly, that for matter of Doctrine, carnall men have alwaies lyen darke unto it, they have not known what hath been preached, neither have they had either the wiſdome, or the patience to enquire or examine, but when by a neceſſary ſeparation and withdrawing from their commu<g ref="char:EOLhyphen"/>nion, the godly made a Church among themſelves, and went about to ſave themſelves from a froward generation, this was the worke which madded them; ſee for this <hi>Acts<g ref="char:punc">▪</g>
+               </hi> the ſecond, and forty, and forty one, compared with the Rulers carriage <hi>Acts</hi> 4, 2. had not the people by a ſacred Church-communion been ſubject to have been drawne from them, they would no doubt have been far more moderate towards the Apoſtles, ſee <hi>Acts</hi> 19, 16. it was the peoples turning from darkneſſe to light, and gathering from into a Sect, as they called it among themſelves, which ſo much angred them.</p>
+            <p>Secondly, we argue from that which is daily done by the courſe of an ordinary Miniſtery.</p>
+            <p>What Preachers ſoever have in a blameleſſe and warrantable way provoked moſt contumely and obloquy from the wicked world; theſe are they who have converted moſt, and done moſt good by their preaching; but ſuch as have ſtood moſt for viſible holineſſe in Church Members, have contracted to them moſt contumely and obloquy from the wicked world; therefore theſe are they who have conver<g ref="char:EOLhyphen"/>ted moſt, and done moſt good by their preaching. Daily experiment will prove the Minor; Let a Miniſter never ſo well gifted be of this judgement, That any may be received into Church-communion, who live honeſtly, and can anſwer to a Catechize, and what ſtore of Converts will they have.</p>
+            <p>The ſeventh Argument is from pregnancy of Scripture, for this purpoſe, of a lawfull and neceſſary ſeparation from the world in matter of Church fellowſhip, thus:</p>
+            <p>
+               <pb n="11" facs="tcp:33522:10"/>Whatſoever opinion or practice do make void the authority and rule of Scripture; that opinion, or that practice is not by any rrue Beleever to be imbraced; but to receive any other into Church fel<g ref="char:EOLhyphen"/>lowſhip, then ſuch as are viſibly holy, does make void the Authority and Rule of Scripture; therefore ſuch kinde of practiſe is not lawfull.</p>
+            <p>The Major Propoſition is eaſily granted.</p>
+            <p>The Minor is thus proved.</p>
+            <p>Whatſoever opinion or practiſe do ſend us from the plaine, lite<g ref="char:EOLhyphen"/>rall, and Gramaticall ſenſe of the Scripture, to the gloſſes and un<g ref="char:EOLhyphen"/>certaine conjectures of men, that of neceſſity muſt make void the authority and rule of Scripture; but to make any other Church Members, then ſuch as are viſibly holy, doth this, <hi>viz.</hi> It ſendeth us from the plaine, literall, and grammaticall ſenſe of Scripture, to the various gloſſes and conjectures of men, <hi>Ergo.</hi>
+            </p>
+            <p>The aſſumption is eaſily proved from <hi>Eſay 52. 11. 2 Cor.</hi> 6. 17. as many as are of opinion, that that Scripture, and the like, are to be underſtood of Idolators, that we ought not to mingle with them in their vaine Superſtition, and Will-worſhip, if they go no fur<g ref="char:EOLhyphen"/>ther, they muſt come ſhort of the true meaning of the Spirit in ſuch Scriptures, becauſe Idolatry is but one ſort and kinde of unclean<g ref="char:EOLhyphen"/>neſſe; but that in <hi>Eſay</hi> forbids all, ſaying, <hi>Touch no unclean thing,</hi> Whence we come to demand to be reſolved in two things: Firſt, what it is to touch any thing unclean? Secondly, whether civill ho<g ref="char:EOLhyphen"/>neſty, or to ſpeake more properly, whether civill Morall men, al<g ref="char:EOLhyphen"/>though they are skill'd to anſwer a Catechize, whether ſuch be not for all that, as yet in a ſtate of uncleanneſſe? to both which demands i<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e receive a reſolution from Scripture, firſt men touch not one<g ref="char:EOLhyphen"/>ly, in living and mingling with them in their evill works, but to eat the Sacrament with them, as 1 <hi>Cor. 6. uli.</hi> with ſuch no not to eat; this cannot be underſtood of the other kinde of eating, which isi granted by the Apoſtle to be lawfull, when he ſaith, That <hi>otherwiſe we ſhould go forth of the world.</hi> To be familiarly acquainted with civill honeſt men, and to invite ſuch, and bid them welcome to our Table, I ſuppoſe no wiſe man will <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay the contrary; but to have Church fellowſhip with them, here at many ſcruple, and that for good cauſe: Secondly, ſuppoſe that the eating there mentioned, is meant of a civill, and not a Sacramentall eating, yet the Sacramen<g ref="char:EOLhyphen"/>tall is meant alſo, and not excluded; which made our Prelates as
+<pb n="12" facs="tcp:33522:11"/>
+much out as they were, in the adminiſtration of Church Diſcipline, firſt, to forbid the ſacramentall, and then when the greater excommu<g ref="char:EOLhyphen"/>nication came forth, to forbid the other kinde of eating; for the like purpoſe is <hi>Rev.</hi> 2. 19 20. All will grant, that Miniſters are not forbiden to ſuffer ſuch to come and heare therefore <hi>Epheſus</hi> Angels ſin was in ſuffering ſuch to partake of the Ordinances, in way of ſpeciall com<g ref="char:EOLhyphen"/>munion. For the proofe of the ſecond, Whether civill men be not in a ſtate of uncleanneſſe, I appeale to the conſciences of all ſuch as are taught of God.</p>
+            <p>An eighth Argument for the proofe of this purpoſe, is from the manifeſt and certain difference which ought to be between the Jew and the Gentile, thus:</p>
+            <p>Whatſoever belief or practiſe do confound the Synagogue of the Jewes, with the Churches of the Gentiles, that belief or practice is not lawfull: But to take in Church Members, ſuch as are not viſibly holy, doth this, It confoundeth the Synagogue of the Jewes with the churches of the Gentiles; therefore to take in ſuch ſort of church members, is not lawfull.</p>
+            <p>That theſe two churches ought not to be confounded, but appa<g ref="char:EOLhyphen"/>rently to differ, we have Scripture to confirme it, as <hi>Rom.</hi> 3. 1. the Jewes are priviledged much every way above the Gentiles, and the covenant, and the promiſes, and the glory, belonged to theſe; not ſo properly to the Gentiles, <hi>Rom.</hi> 9. 4. And what greater priviledge could there be, next to that of inheriting the Kingdome of heaven, then to be a church member, ſo farre as to the partaking of all the priviledges, proper and peculiar to that Nation; and yet to be unholy at leaſt, if not outwardly profane; therefore all of that Nation, both one and another, were forced to an outward circum<g ref="char:EOLhyphen"/>ciſion; whence, though never ſo unworthy, they were yet ſtiled the children of the Kingdome, children and ſonnes of <hi>Abraham,</hi> who onely had right to the childrens bread. The ten Tribes, as corrupt as they were, and as great Apoſtates from their God, were for all this, ſtiled Gods people, the Nation whom he would owne above all Nations in the Earth, <hi>Amos</hi> 3. 1, 2. thus was it with the true Olive, and the cauſe of this kinde of indulgence was, that they might bee placed among the Nations, as a candle or a lanthorne in a darke place: It was requiſite that all they, the church being then ſo ſmall, it was neceſſary that this people, every one of them, ſhould by thoſe many carnall ordinances &amp; ceremonies
+<pb n="13" facs="tcp:33522:11"/>
+which they held forth be ſome light to the world; but now ſince the calling of the Gentiles, the Church being ſpread farre and neare, 'tis not needfull that every one that profeſſeth Chriſt ſhould goe for a member, becauſe men doe not now ſtand in need of ſuch qualified members; therefore when <hi>Malachie</hi> propheſieth of this difference which ſhould be for time to come, he telleth us that the Gentiles ſhould offer a pure offering; we demand then in what ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce pure? Firſt did not the Jew offer according to the preſcript of <hi>Moſes</hi> Law? if other<g ref="char:EOLhyphen"/>wiſe, how came they then to be ſo much upbraided by thoſe ſtrict ob<g ref="char:EOLhyphen"/>ſervances, as <hi>Eſay</hi> the firſt, and the ſixty ſixt, Chapter. Secondly, were there not many truly godly amongſt them? why then is it ſaid that the Gentiles ſhould offer a pure offering which the Jewes did not? therefore we are here to underſtand a figure, in this phraſe, of a pure offering, which is a Metonimie of the adjunct: the offering being put for the offerers: thus food was by the Apoſtle called pure or im<g ref="char:EOLhyphen"/>pure, according to the purity or impurity of ſuch as received it, <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> the firſt and laſt; So the word of God is ſaid to grow, becauſe twas an inſtrument of growth to ſome; thus the Gentiles were to of<g ref="char:EOLhyphen"/>fer a pure offering, not in ſubſtance but in the circumſtance of the perſons, when all as farre as humane judgment in way of charity could diſcerne were to be outwardly and viſibly holy.</p>
+            <p>A ninth Argument is taken from the great ſcandall which will fol<g ref="char:EOLhyphen"/>low ſuch kind of Church gathering, as have been hitherto ge<g ref="char:EOLhyphen"/>nerally practiſed, thus:</p>
+            <p>Whatſoever doth of it ſelfe, and in its owne nature ſcandalize men from becomming the true ſervants of Chriſt, that in gathering of Church Members is not to be practiſed, but to take Members into Church-fellowſhip not viſibly holy, is to ſcandalize men from be<g ref="char:EOLhyphen"/>comming the true ſervants of Chriſt; <hi>ergo</hi> to gather Members not viſibly holy is not to be practiſed.</p>
+            <p>The Major Propoſition being granted.</p>
+            <p>The Aſſumption or Minor is thus proved.</p>
+            <p>Whatſoever cauſeth or maketh one not yet regenerate, not to ſee an abſolute neceſſity of being regenerate and borne a new, that is it which doth ſcandalize men from becomming the true ſervants of Chriſt, but to take in Members not endued, that is to ſay, not pro<g ref="char:EOLhyphen"/>bably, at leaſt endued with viſible holineſſe<g ref="char:punc">▪</g> doth this <hi>videlicet,</hi> it blindeth men and letteth them not to ſee an abſolute neceſſity of rege<g ref="char:EOLhyphen"/>neration; <hi>ergo,</hi> to take in Members not viſibly holy doth ſcandalize
+<pb n="14" facs="tcp:33522:12"/>
+men from becomming the true ſervants of Chriſt.</p>
+            <p>Both Propoſitions are apparent by inſtance, as thus: Take one meetly catechiſed in the principles of the Chriſtian Religion, let ſuch an one make an hiſtoricall narration of his faith; ſuch as if the Devills were put to it, Saint <hi>James</hi> ſaith they could doe the like, but now for zeale and inward affection to that he knoweth (God wot) nothing is to be diſcerned by any judicious Chriſtian, to make him hope that in the judgement of charity ſuch an one is a regenerate Chriſtian, let this meere outſide and formall Profeſſor notwithſtand<g ref="char:EOLhyphen"/>ing be admitted and allowed of for a Church member, whereby he apprehendeth according to the old and blinde belief that he is a mem<g ref="char:EOLhyphen"/>ber of Chriſt, the child of God, and an inheritor of the Kingdome of Heaven (and to ſpeak as 'tis, what elſe does the actuall receiving of any into Church communion but preſuppoſe all this) as farre as con<g ref="char:EOLhyphen"/>cerneth the ſatis<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>action of others, and that commonly which ſatisfieth others, deludeth him by making ſuch a qualified Member believe that he is the very ſame that others take him for) I ſay therefore the foun<g ref="char:EOLhyphen"/>dation of Church fellowſhip being thus laid, let the Miniſter now according to his duty, and the ſpirit of holineſſe God hath given him, notwithſtanding all this, preſſe hard for inward ſanctity, let him in meekneſſe and in the demonſtration of the Spirit ſet and prove unto him b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pregnant and undeniable ſcriptures that to be an heir of heaven, we muſt truly loo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e after not only an outward f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wſhip with men, bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an inward communion with God alſo; I ſay, let ſuch doctrines as theſe be preſſed and applyed, how wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſuch an one already conceited that he is a child of God, as he is a Church Member, put off the ener<g ref="char:EOLhyphen"/>gie and edge (if I may ſo ſpeak) of theſe more inward marks of qua<g ref="char:EOLhyphen"/>lification for Heaven, with ſuch fallacies and parralogiſnes as theſe are, how that we ſhould doe ſo indeed, and twere well if we could doe as the Miniſter preacheth; God forgive us, we all come ſhort of what we ſhould doe, and the Miniſter good man would have us all doe well, and thus our outſide morall formaliſt put<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h off the moſt neceſſarie inſtructions as of all others which are marks of ſalvation, with I know not what is fitting onely and expedient to be done, whereas if ſuch an one be admitted, onely as an hearer, and kept as it were at the threſhold of the Church, and be told by the Mini<g ref="char:EOLhyphen"/>ſter, and that he ſees the Miniſters doctrine in this particular, to be followed and ſeconded by a Church practiſe, that he ought as well to be taught of God as of men, and that he muſt be diſcerned by ſome
+<pb n="15" facs="tcp:33522:12"/>
+better able then himſelfe to have ſome inward touch, and to have an af<g ref="char:EOLhyphen"/>fection at leaſt probably to what he profeſſeth, this may happily ſtar<g ref="char:EOLhyphen"/>tle ſuch an one, and make him to have other conceits for Heaven, and may by the grace of God, not onely gaine him to be an outward Church-Member, but to be an inward and true member of Chriſt Jeſus.</p>
+            <p>A tenth argument to prove our purpoſe is taken from the ſuffer<g ref="char:EOLhyphen"/>ing ſuch Churches, as were already planted by the Apoſtles, in thoſe corruptions they after fall into; thus,</p>
+            <p>Whatſoever was unlawfull in Churches for ſuffering unqualified Members that was enough to have kept them from being taken in at firſt; but Churches have been alwayes threatned, and re<g ref="char:EOLhyphen"/>proved for ſuffering unqualified Members; <hi>Ergo</hi> twas enough to have kept them from being taken in at firſt: both propoſitions are ſufficiently manifeſt.</p>
+            <p>The ſequel of the Major relieth upon the old axiome, <hi>ſicut ſe res ha<g ref="char:EOLhyphen"/>bet in eſſe ſic in operari,</hi> moreover, common reaſon doth dictate what ought not, or what is found unlawfull at laſt, was firſt unlaw<g ref="char:EOLhyphen"/>full.</p>
+            <p>The Minor Propoſition is pregnant Scripture, as in the <hi>Revelation;</hi> and where alſo is no difficulty in matter of ſence, as all will grant, not onely the Members themſelves are reproved and threatned; but the Churches alſo whereof they were Members <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or ſuffering ſuch, ſee <hi>Revelation</hi> the ſecond and fourteenth and twentieth verſes, alſo <hi>Corin<g ref="char:EOLhyphen"/>thians</hi> the firſt, the fifth and the ſixth Chapters, when the Apoſtle telleth us that <hi>a little leaven leaveneth the whole lump;</hi> Whither a well catechiſed Moraliſt have purged <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut his old leaven, and become a new lumpe, with ſome that are more univerſally conſcientious, let that <hi>be</hi> left to the ſcanning of all that are wiſe to Salvation.</p>
+            <p>The eleventh Argument is taken from the danger of confonnding the infirmities of the faithfull, with the vices of unregenerate men, thus:</p>
+            <p>The taking in of Members other then ſuch as are viſibly godly, doe confound the infirmities of the regenerate, with the vices of the unre<g ref="char:EOLhyphen"/>generats; <hi>Ergo,</hi> ſuch a Church-gathering is not lawfull: the conſe<g ref="char:EOLhyphen"/>quent I ſuppoſe to be ſtrong enough without further proofe; Who is it profeſſing the Goſpel and zeale to the Chriſtian Religion, will not affirme that whatſoever cauſeth con<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſion in the Church<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſpecially as to the right frame and conſtitution of it, is to be ſhunned as rocks at
+<pb n="16" facs="tcp:33522:13"/>
+Sea? conſidering what the Apoſtle ſaith, <hi>Corinthians</hi> the firſt, the four<g ref="char:EOLhyphen"/>teenth and eigth, If the Trumpet give an uncertaine ſound<g ref="char:punc">▪</g> who ſhall prepare himſelfe to battell? And though ſuch doe mainely run the hazard of confounding things, who neglect ſincere and faithfull preaching, according to that in the ſecond of <hi>Ez<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ki<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nne of man I have made thee a Watchm<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, &amp;c.</hi> yea, the moſt inward teaching to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> regenerate underſtanding is no idle or uncertaine ſound, becauſe <hi>ſuch as are ſpie<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tuall doe ſavour the things of the Spirie,</hi> Rom. the 8th. and the ſixth, yet ordinary experience will make it out for a truth, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat as in Armies mingling of Colours, or Trumpets unskillfull ſound, ſo alſo in a Church mixture of Members unqualified doe breed confu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>Therefore the Antecedent which I confeſſe ſhould have been firſt confirmed neede<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h moſt proofe; <hi>videlicet,</hi> How this mixt gather<g ref="char:EOLhyphen"/>ing do confound the infirmities of the one with the vices of the other, and for a cle<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>viction in this particular; we thus argue, That whatſoever it is which maketh the by-ſtander or third perſon to think and believe t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at the infirmities of the one and the vices of the other to ariſe from one roote and foun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne; <hi>videlicet</hi> from an heart affect<g ref="char:EOLhyphen"/>ed with the love of ſin, that is it which doth by an unhappy ſcandall confound the vices of the unregenerate with the infirmities of the faithfull; but the mixt gathering of Church-Members doth this; it cauſeth the by ſtander or third perſon, or any one that is unregene<g ref="char:EOLhyphen"/>rate, to think that their vices and the believers infirmities doe pro<g ref="char:EOLhyphen"/>ceed from one and the ſame roote and fountaine, which is to ſay, from an heart infected with the love of ſin; <hi>Ergo,</hi>
+            </p>
+            <p>Both Propoſitions are apparent, for if the Preacher be required by Gods Law, to ſet forth the difference between th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe to the people, ac<g ref="char:EOLhyphen"/>cording to thoſe divine ſentences in the Epiſtle of <hi>John, That <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that is borne of God cannot ſn<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> that is, cannot love it, for ſo as doe all unregenerate men in one kind or other; <hi>And he that is borne of God keepeth himſelfe, and that wicked o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e toucheth him not,</hi> that is, though he may by a temptation be outwardly ſoyled, yet if the ſeed of God remaineth in his heart, as it doth in the regenerate, cannot be in<g ref="char:EOLhyphen"/>wardly infected; I ſay againe, if it be required of the faithfull Mini<g ref="char:EOLhyphen"/>ſter thus farre, to ſet theſe at a diſtance in his preaching and inſtructi<g ref="char:EOLhyphen"/>ons; what good to one, eſpecially in the dregs of nature will acrew: when by this moſt wholſome, and no leſſe neceſſary ſeparation, he <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eth not that generally practiſed in matter of Church Diſcipline, which is held forth by the Miniſter.</p>
+            <p>
+               <pb facs="tcp:33522:13"/>Now to illuſtrate the truth of the Minor Propoſition, take it thus: Suppoſe two Members to be taken in one a meere Formaliſt, another a ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cere hearted Chriſtian; The firſt, <hi>videlicet,</hi> the Formaliſt, we will ſuppoſe him to be endued firſt with all endowments of nature. Se<g ref="char:EOLhyphen"/>condly, with all civill and morall education, which will cauſe a ge<g ref="char:EOLhyphen"/>nerous and noble deportment of himſelfe to others. Thirdly, all Chri<g ref="char:EOLhyphen"/>ſtian accompliſhments, as farre as concerneth the exact knowledge of the Principles of Religion. Fourthly, adde here unto a proſperous and uſuall concurrence of all earthy happineſſe, where, through his gra<g ref="char:EOLhyphen"/>cious and glorious abilities to the ontward view, doe not only gaine him reſpect from men, but theſe are moſt commonly exempt from, and not often ſubject to thoſe miſerable provocations, and other ſtraits, the poorer and yet ſincerer Chriſtians are ſubject to, &amp; the reaſon is they are appointed to ſuffer, <hi>Theſſ.</hi> the firſt the 3.<hi rend="sup">d</hi> and the 3<hi rend="sup">d</hi>, and is in this life to receive their evill things, <hi>Luke</hi> the 16. and 25. though now this our glorious brother, both in his owne eyes, and in the eyes of ſuch as are like to him is the only Profeſſor; yet here will be the que<g ref="char:EOLhyphen"/>ſtion, whither ſuch an one ought to be taken in for a Church<g ref="char:punc">▪</g> Member? neither ſpeak I this to exclude ſuch as are Saints and may have theſe endowments, becauſe <hi>God hath choſen ſome both rich and noble,</hi> and <hi>wiſe,</hi> (as the Apoſtle ſpeaketh) in the 1<g ref="char:punc">▪</g> 
+               <hi>Cor. chap. 1. v.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. but this I ſay, whither ſuch with all theſe who are thought to be forward enough in profeſſion for Heaven, I ſay againe, whither thoſe outward and former qual<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fications are enough. Secondly, on the o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her ſide, let another be taken in unfurniſhed of all this goodly trapping, his birth meane, his breeding according, and his knowledge chiefly in any points of high concernment ſuitable; adde to this happily a crabbed &amp; teachie nature, which is often rendred far more odious, not onely by the cun<g ref="char:EOLhyphen"/>ning and ſubtile wire drawing of ſome ſelfe-pleaſing Phariſee, who ordinarily carries about him a multiplying glaſſe, as it were to put others faults in, which makes them ſeeme much bigger then they are, but views his owne at a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar greater diſtance.</p>
+            <p>Adde moreover a too often, and unhappy, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orced ſubjection to all, both domeſtique and forreigne ſtreigts and miſeries, which in this life muſt be the Saints portion, all that this Brother hath to com<g ref="char:EOLhyphen"/>mend him either to God or man, is an hearty zeale and affection to that he knoweth, his judgement is often weake, his beſt actions through the poyſonous venim of naughty tongues, wreſted, diſgraced, and diſpa<g ref="char:EOLhyphen"/>raged; thus brother for all the prejudice and hard cenſure he meets with from carnall men, is yet in the judgment of all true diſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erners, a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight brother<g ref="char:punc">▪</g> the other not ſo.
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:33522:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:33522:14"/>
+               <pb facs="tcp:33522:15"/>
+            </p>
+            <p>A twelfth argument is taken from the errors which have been in former Church-builders, thus:</p>
+            <p>Whatſoever miſcarriage in Church building, and gathering Church members, have come in amongſt men, through errour of Doctrine, that ought not now in our time of reformation to be pra<g ref="char:EOLhyphen"/>ctiſed; but to gather Church-members, other h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of ſuch as are v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſibly holy, doth this, it magnifi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th and ſetteth up errors of D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ctrine, and miſtakes of former ages; <hi>Ergo,</hi> are not now to be pra<g ref="char:EOLhyphen"/>ctiſed.</p>
+            <p>The major I ſuppoſe will be undeniably granted. The Mi<g ref="char:EOLhyphen"/>nor is proved by inſtance, <hi>vide</hi> conce<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning Baptiſme; the Do<g ref="char:EOLhyphen"/>ctrina about not onely the <hi>eſſe,</hi> but the abſolute neceſſity of Infants Baptiſme, have (as it is knowne to all) beene the cauſe in former ages, of taking every one into Church-fellowſhip, witneſſe the Pri<g ref="char:EOLhyphen"/>mitive times, if we may call them Primitive, wherein <hi>Au<g ref="char:EOLhyphen"/>guſtine, Ambroſe, Chryſoſtome,</hi> the <hi>Gregorys,</hi> and ſuch famous worthies lived, it is well known to all who have read their works, that thoſe moſt godly and ze<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lous Worthies, not having the Light which we have<g ref="char:punc">▪</g> did unanimouſl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hold, that Baptiſme made Infants Chriſtians, and that children u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>baptized could not be ſaved. Neither in this Tenent do the Papiſts at all erre from the Doctrine of the An<g ref="char:EOLhyphen"/>tients Su<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>table, though happily not the ſame altogether, was the E<g ref="char:EOLhyphen"/>piſcopall Tenent, That Baptiſme was not onely a ſeal as circumciſi<g ref="char:EOLhyphen"/>on was (to which this of Baptiſme ſucceeded) but a means alſo to re<g ref="char:EOLhyphen"/>ceive grace: whence it wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> g<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erally believed, that Infant<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did re<g ref="char:EOLhyphen"/>ceive ſuch a tincture, ſuch an indeluble character and ſtamp of ho<g ref="char:EOLhyphen"/>lineſſe in the Ordinance, that mens particular failings (as they called them) though this were no other then groſſe ſin, did no whit un<g ref="char:EOLhyphen"/>chriſtianize, but a little blemiſh their Chriſtianity: Whence milli<g ref="char:EOLhyphen"/>ons are ſo beſotted, that they believe, that as their fathers and mothers in the courſe of nature, have made them men and women, the Mi<g ref="char:EOLhyphen"/>niſter at the Font made them Chriſtians. Now if all upon this notion were taken in for Church-members, and the ground of all this, in theſe dayes of light, be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound extreamly faulty, what reaſon but the building, on ſuch an unſure foundation erected, ſhould be now de<g ref="char:EOLhyphen"/>moliſhed; and other and better Members, upon further Goſpell diſ<g ref="char:EOLhyphen"/>coveries, to be taken in.</p>
+            <p>The thirteenth Ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ument is t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken from the great ſcandall which a Church otherwiſe gathered giveth our adverſaries the Pa<g ref="char:EOLhyphen"/>piſts, thu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>:</p>
+            <p>
+               <pb n="17" facs="tcp:33522:15"/>That which maketh the Proteſtants juſtly excepted againſt, and taxed by the Papiſts, to be a company of groſſe and Athieſticall Liber<g ref="char:EOLhyphen"/>tines, that is not by any means to be allowed; but to gather a Church of common Proteſtants, or of ſuch as are but barely catechiſed, is to make all Proteſtants, by the Papiſts, to be ſo accounted. <hi>Ergo,</hi> to ga<g ref="char:EOLhyphen"/>ther members of other, than of ſuch as are viſibly holy, is not to be allowed.</p>
+            <p>The <hi>major</hi> being granted,</p>
+            <p>The <hi>minor</hi> is thus proved.</p>
+            <p>That Profeſſion, the profeſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors whereof doe come ſhort of Papiſts in point of practiſe, as touching the Religion, they profeſſe; that pro<g ref="char:EOLhyphen"/>feſſion doe ſcandalize the Papiſts, and conſequently gives them cauſe to thinke, that all ſuch profeſſors, are but groſſe and Atheiſticall Li<g ref="char:EOLhyphen"/>bertines; but this doe a mixture, in gathering Church-members, it makes them come ſhort of Papiſts, in point of practiſe, as touching the Religion they profeſſe. <hi>Ergo,</hi> it makes the Papiſt to think, that the Proteſtants are a company of groſſe and Atheiſticall Libertines, and conſequently, ſuch a Church-gathering is not to be allowed.</p>
+            <p>The <hi>major</hi> being granted,</p>
+            <p>The <hi>minor</hi> is proved by inſtance, <hi>viz.</hi> By comparing the common proteſtant and the papiſt together, in practicall part of Religion, in which, of theſe moſt religious forwardneſs, is to be diſcerned; and to begin with the papiſts, let him be but meerly catechiſed in the principles of his owne Religion, he hath, in many things, the ſtart and precedency above the common proteſtant. Firſt, in matter of underſtanding, it is more furniſhed by far, (I ſay not better:) As for the co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mon proteſtant, he is ſeen but in his Creed; whereas the o<g ref="char:EOLhyphen"/>ther is taught in the doctrine of 7 Sacraments. Secondly, his beliefe is racked, and ſcrewed up to a farre higher pitch than is the Prote<g ref="char:EOLhyphen"/>ſtants, who is ordinarily accuſed, and thought of by them, to be a company of brutiſh and naturall men, to goe no further in their be<g ref="char:EOLhyphen"/>liefe, then to ſence and reaſon, as in matter of their carnall preſence. Thirdly, the papiſt will doe much more for his profeſſion, tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the common ſort of proteſtants will doe for theirs. As for the papiſt, he will yeeld his outward man to faſting, and all kind of pennance; and his heart, and inward man, though to an erroneous, yet to an auri<g ref="char:EOLhyphen"/>cular confeſſion: whereas the common proteſtant, makes his religi<g ref="char:EOLhyphen"/>on to conſiſt (for the moſt part) in the bare deniall of all this. But, will ſome object: And doe not your viſibly holy Saint you ſpeak of,
+<pb n="18" facs="tcp:33522:16"/>
+denie all theſe? We anſwer. Yea, or elſe he cannot be in his belief, any other than a Papiſt, or worſe. But now obſerve, and yee ſhall ſee theſe viſibly holy members (as farre as the judgment of charitie will give them for) to have that by vertue of a ſpeciall and inward call, for which, the Papiſts doe undertake all theſe works: For let papiſts but retain the true doctrine of their religion, and they are taught, that all the Sacraments ſerve but as means to convey grace to ſuch as are in grace (to ſpeake in their owne phraſe) and that by vertue of that they call a foederall Covenant, as infant Baptiſme; where the party bapti<g ref="char:EOLhyphen"/>zed cannot <hi>ponere obicem;</hi> or to ſuch as either retaine, or at leaſt re<g ref="char:EOLhyphen"/>cover, their firſt grace. Now, I ſay, if this holy viſibly member, can wrarantably prove (as he may well) how that God worketh, both how, and when, and where he pleaſeth: without theſe, he hath, both in his belief, and life alſo, proved himſelf to be more excellent than his neighbour, which is the ſuperſtitious Papiſt, and the common Proteſtant.</p>
+            <p>The fourteenth Argument is taken from the diſgrace which un<g ref="char:EOLhyphen"/>qualified members doe bring upon members better qualified, thus:</p>
+            <p>Whatſoever cauſeth the gifts and graces of the beſt qualified to be miſ-called, and miſ-cenſured, or miſ-conſtrued, that in gathering Church-members, is not to be practiſed; but to take in members not viſibly holy, cauſeth the gifts and graces of the beſt qualified, to be miſ-conſtrued, and ill ſpoken of. <hi>Ergo,</hi> the taking in members into Church-fellowſhip, not viſibly holy, is not to be practiſed.</p>
+            <p>The <hi>major</hi> propoſition being granted;</p>
+            <p>The <hi>minor</hi> is thus proved.</p>
+            <p>Whatſoever makes the gifts and graces of the beſt qualified to be counted of the non-diſcerning, ſuperfluous, and more then need: or, which is worſe, a deſire to be ſeene above others, that makes their graces to be miſ-called and miſ-conſtrued: But the taking in of mem<g ref="char:EOLhyphen"/>bers not viſibly holy, doth this; it makes the gifts and graces of the beſt qualified, to be counted of the non-diſcerning, ſuperfluous, and more then need; or, which is worſe, it makes them to be counted of ſuch non-diſcerning ſpirits, to deſire only to be ſeen above others. <hi>Er<g ref="char:EOLhyphen"/>go,</hi> to take in ſuch kind of members, is not lawfull.</p>
+            <p>Both propoſitions will be ſoone granted, if we conſider the
+<pb n="19" facs="tcp:33522:16"/>
+old axiome, <hi>fruſtra fit per plura quod fieri potuit per p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uciora;</hi> for example, if <hi>Thomas,</hi> and <hi>Titus,</hi> or <hi>Timothy,</hi> were taken in for Church Members, for their more excellent endowments of viſible holineſſe; and <hi>Robert,</hi> and <hi>James,</hi> and <hi>John</hi> to be diſcerned onely by their more heartleſs profeſſion, upon thoſe eaſie and common qualifications alſo to be taken in; will not now the more part and worſer (there being greater ſtore of theſe Members then of the other) make the better part and the fewer to be diſgraced, and to have more then need in their profeſſion above the reſt: and thus all things ſhall return again to their old <hi>Chaos;</hi> ſo doing we ſhall not onely ſad the hearts of ſuch whom the Lord hath not ſadded, but as much as in us lies, we ſhall fruſtrate and make void, all the blood that hath been ſhed, all the la<g ref="char:EOLhyphen"/>bour, oile, and coſt (if I may ſo ſpeak) that have been ſpent for the effecting, and perfecting a through reformation; for ſince tis granted by all parties, both Epiſcopall, Presbyterian and others, that in mat<g ref="char:EOLhyphen"/>ters of doctrine Proteſtants doe agree, if this matter and way of ſe<g ref="char:EOLhyphen"/>perating the pretious from the vile, be (not by all Parties who deſire a reformation) more punctually ſtood upon. What will at length come of all that hath been done? for if we allow of any other way, we muſt make Church Members ſpecially, and ſpecifically conſider'd; that is, as they ſtand in relation to a viſible Church, to conſiſt as well of civill and morall men, as of the beſt qualified; and in ſo doing we ſhall not onely in the building of Gods Houſe, together with gold, and ſilver, patch up dirt, and clay, and ſtubble, but make the ſtate it ſelf, and all the true ſubjects to it a jeere, and a ſcorn to the Malignant adverſary, to ſay of our pious reformers, that they would have refor<g ref="char:EOLhyphen"/>med if they could have found matter: yea, will not <hi>Bellermine</hi> him<g ref="char:EOLhyphen"/>ſelfe, that great Stickler in the Church of <hi>Rome,</hi> ſhake hands with us in our reformation? who tels us, that to be inwardly qualified, that is, beſide bare profeſſion, to have ſome worke of the ſpirit upon them, is no <hi>eſſe,</hi> or neceſſaty requiſite of a Church Member, provided they be Catholiques of the Romiſh Edition; and ſo ſuch kind of intruders being let in, all will in time come to ſay of things brought again to their old bias, as Captains and Lievtenants doe in martialling their Soul<g ref="char:EOLhyphen"/>diers, faces about, and as yee were. Who therefore endued with any meaſure of zeale for God, will not in his thoughts abhor, and in his practiſe, as farre concerns him in his place, endeavour to keep of, and keep out ſuch a medly in Gods Church, leaſt otherwiſe ancient poſ<g ref="char:EOLhyphen"/>ſeſſion doe (as it did in all the Biſhops time) claim cuſtome and pre<g ref="char:EOLhyphen"/>ſcription;
+<pb n="20" facs="tcp:33522:17"/>
+to ſay, to the beſt gifted and graced in our<g ref="char:punc">▪</g> Churches; as once <hi>Iſrael</hi> ſaid to their zealous brethren on the other ſide <hi>Jordan, Joſhuah</hi> the 22. from the 23. verſe to the 29. The putting up of a ci<g ref="char:EOLhyphen"/>vill morall brother, will in time pull down the Altar of diſtinction, between a viſible Saint, and a Moralliſt: And he that now happily, while theſe times of reformation laſt, he that was hardly the foot, will, if ſuffer'd to intrude, in ſhort time ſo become the head, that he will altogether ſhoulder out the other. So far the fourteenth Argument.</p>
+            <p>The fifteenth Argument is drawne from the calling of the Jewes<g ref="char:punc">▪</g> the maner of their converſion, and their deportment when they are called: <hi>Thus,</hi>
+            </p>
+            <p>All ſuch as gather Churches ought in the gathering of their Mem<g ref="char:EOLhyphen"/>bers, to follow the beſt example, either of Churches already gathered, or of ſuch as ſhall be certainly gathered at Chriſts ſecond comming: but if we take in for Members ſuch as are not viſibly holy, we cannot follow theſe kind of examples, therefore to take in ſuch unqualified Members, is not lawfull.</p>
+            <p>As to the proofe of the <hi>major</hi> propoſition, tis not only <hi>jure divino</hi> but <hi>eccleſiaſtico,</hi> or <hi>parlimentari,</hi> for tis the ſum of our covenant in our worke of reformation, in it to follow the examples of the beſt reformed Churches.</p>
+            <p>The <hi>minor</hi> is proved by inſtance, we herein f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llow not the example and practiſe of the Jewiſh Church when it ſhall be called.</p>
+            <p>
+               <hi>Ergo,</hi> ſuch as ſhall inherit <hi>Judah, for all ages ſhall be all righteous, Eſay</hi> the 60. and 21. <hi>Eſay the</hi> 61. and 9. <hi>They ſhall be known among the nations,</hi> and therefore among themſelves, <hi>Eſay</hi> the 52. and the 1. the whole ſubject of the Revelation (ſetting the judgements aſide which are to be poured upon Antichriſt) concerneth the viſible holi<g ref="char:EOLhyphen"/>neſſe, and earthly glory of that Church, when they ſhall be called ac<g ref="char:EOLhyphen"/>cording to the beſt interpreters of that ſcripture. See <hi>Revel.</hi> the 21. and 27. <hi>Revel.</hi> the 22<g ref="char:punc">▪</g> and 14. All that will be objected is, that well may that Church be pure when Chriſt himſelfe ſhall purge it by his per<g ref="char:EOLhyphen"/>ſonall preſence with it; for that purpoſe, let us therefore tarry till that time come, becauſe we are not able to doe as Chriſt can, when he ſhall come again. To which we anſwer, That we are by the word, and by the ſpirit inabled, to doe in meaſure what Chriſt ſhall perform at that day: for it is not required, that all wicked men be ſhut out in
+<pb n="21" facs="tcp:33522:17"/>
+               <hi>ſtatu quo:</hi> the beſt reformed Churches muſt allow of hypocrites which not diſcovered can doe no harme to a Church, whatſoever harm they doe themſelves: what though Badgers skins covered the Tabernacle, yet being died red they were uſefull, <hi>Leviticus</hi> the 27. and laſt. What though the brazen Sea was born up by Oxen, yet their hinder parts, that is to ſay, their parts more uncomely were inward: ſo though Hypocrites will get in while they are not diſcovered, may be of excel<g ref="char:EOLhyphen"/>lent uſe. So farre this 15. Argument; tending to ſhew the neceſ<g ref="char:EOLhyphen"/>ſity of Church gathering, from the <hi>Jewes</hi> when they ſhall be called.</p>
+            <p>The Sixteenth Argument is drawn from the great ſcarre and ſcandall which will otherwiſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lurre the reputation of one of thoſe conſiderable Parties, from which thoſe who are called the godly Party<g ref="char:punc">▪</g> doe ariſe: <hi>Thus,</hi>
+            </p>
+            <p>Whatſoever objecteth the reformers of Religion, either to the ſcorn and deriſion of the unreformed, or themſelves, to unbrotherly cen<g ref="char:EOLhyphen"/>ſuring one of another; that in gathering Church Members is not to be practiſed; but to gather Church Members of any other, then ſuch as are viſibly holy, doth this. It objecteth the reformers of Religion, ei<g ref="char:EOLhyphen"/>ther to the ſcorn and deriſion of ſuch as are unreformed, or them<g ref="char:EOLhyphen"/>ſelves to the unbrotherly cenſuring one of another: <hi>Ergo,</hi> ſuch a ga<g ref="char:EOLhyphen"/>thering Church Members is not lawfull.</p>
+            <p>The <hi>major</hi> propoſition is valid without exception, if we prove that the ſcandall which lieth upon reformers, be that ſcandall which Divines call <hi>datus,</hi> or that which is given.</p>
+            <p>
+               <hi>The</hi> minor <hi>propoſition is proved by parts, as firſt, That the Epiſcopall Profeſſours, are ſcandall'd and that juſtly. For ſince in matters of do<g ref="char:EOLhyphen"/>ctrine tis famouſly known, that there is no conteſt between Proteſtants of any Party, either Epiſcopall, Presbyterian, or Independents. 2. Netther in the externall Government of the Church, becauſe ſuch as are now call'd Presbyterians, were in the Biſhops times call'd Confor<g ref="char:EOLhyphen"/>miſts, becauſe they ſubſcribed to the doctrine and diſcipline then eſta<g ref="char:EOLhyphen"/>bliſhed; it muſt needs follow, that if ſome other weighty cauſe mooved not,</hi> viz. <hi>a reformation of a Church Member, that one of theſe Parties, at leaſt, rather ſought occaſion of exception againſt the Biſhops, then found it. 3. It ſetteth Profeſſours together amongſt themſelves; for who knows not, that though in reſpect of practice, of taking in<g ref="char:punc">▪</g> or caſting out, theſe two Parties, differ not but in circumſtanciall, or matter of diſci<g ref="char:EOLhyphen"/>pline: yet the judgement upon which ſuch and ſuch are to be taken, or not to be taken in, is ſomething more, and a matter doctrinall.</hi>
+            </p>
+            <p>
+               <pb n="22" facs="tcp:33522:18"/>The <hi>17<hi rend="sup">th</hi>
+               </hi> Argument is from the mimicall imitation of the Papiſts, wherein they ſtrive to have all the members of their Church, viſibly holy, thus:</p>
+            <p>Whatſoever is pretended by the adverſaries of truth, and ſo farre practiſed by them, as more ſutable and ſerviceable to Gods honour; that in gathering of Church-members, is not of truths friends to be left out and neglected; but even the adverſaries of truth, do by their doctrine and practiſe teach, (in pretence at leaſt) that only members viſibly holy, are to be received into Church-fellowſhip. <hi>Ergo,</hi> this ought of truths friends to be ſincerely taught and practiſed.</p>
+            <p>The <hi>major</hi> will be eaſily granted, by all ſuch as thinke it reaſona<g ref="char:EOLhyphen"/>ble, that for zeale of holineſſe, Churches profeſſedly reformed, come not ſhort of Papiſts.</p>
+            <p>
+               <hi>The</hi> minor <hi>propoſition is proved by inſtance: Take thoſe points of po<g ref="char:EOLhyphen"/>pery which are truly ſo called; that is, wherein they and we (the caſe ſo ſtanding) doe, and muſt differ: and we ſhall all along ſtill obſerve, that in all their doings, they aime at perfection in a Church-member. As firſt in their beliefe concerning Baptiſme, they teach and beleeve, that Baptiſme doth abſolutely take away originall ſinne; ſo that thoſe motions of ſin, or unto ſinne, by ſome called</hi> reliquiae, <hi>or the remnants of ſinne, are not ſin properly, as indeed they are not of the perſon, but of the nature, as our Divines diſtinguiſh: Neither is it a ſpecificall property of all ſinne to be voluntary, by their owne confeſſion, to in<g ref="char:EOLhyphen"/>ſtance in originall ſinne in an infant. But put the caſe now, that a Church-member of theirs fall into a ſinne, after Baptiſme, they call mortall, they then fall upon another ſalve, for perfection, or viſible ho<g ref="char:EOLhyphen"/>lineſſe in a Church-member, and that is their doctrine concerning pen<g ref="char:EOLhyphen"/>nance; wherein they teach, that auricular confeſſion (which by them is made a Sacrament) conferring grace, doe reſtore them fully to that integritie which they received in Baptiſme; and when they are thus reſtored, they have a doctrine that of ſuch as are in grace, the Law can be fulfilled and kept; So that their after-obedience and pen<g ref="char:EOLhyphen"/>nance, doe not only</hi> ex congruo, <hi>but</hi> ex condigno, <hi>merit life eternall. And all theſe beliefes (though proteſtants doe juſtly except againſt, as hay, ſtubble, and wood, built upon the golden foundation of the chriſti<g ref="char:EOLhyphen"/>an profeſſion;) yet from theſe tenents, as bad as they are, we may ga<g ref="char:EOLhyphen"/>ther thus much: That they thinke it a very unreaſonable thing to ad<g ref="char:EOLhyphen"/>mit
+<pb n="23" facs="tcp:33522:18"/>
+of a Church-member into communion in all the ordinances, which is not at leaſt, viſibly holy.</hi>
+            </p>
+            <p>The eighteenth Argument is from hence: That no miſchief, or ſpi<g ref="char:EOLhyphen"/>rituall danger can follow the taking into Church fellowſhip, Members only that are viſibly holy: <hi>Thus,</hi>
+            </p>
+            <p>Whatſoever can be profitably done, without the leaſt prejudice, or ſpirituall hinderance of any one not taken in for a Member, that <hi>caete<g ref="char:EOLhyphen"/>ris paribus</hi> (that is to ſay, which can be done without any kind of in<g ref="char:EOLhyphen"/>convenience) ought to be put in practiſe: But the gathering of Mem<g ref="char:EOLhyphen"/>bers only viſibly holy, can be practiſed without the leaſt hazard of ſuch as are not qualyfied; that is, they can run no ſpirituall hazard, or danger: <hi>Ergo,</hi> ſuch kinde of Church gathering ought to be put in practiſe,</p>
+            <p>The <hi>major</hi> is eaſily proved, and may well ſerve for a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or ſigne of Gods will, and pleaſure this way: for if there were the leaſt hinderance to mans ſalvation by ſuch a practiſe, we might ſafely ſay, this, or ſuch a way could not be of God. For as among Divines, that ſence of ſcripture is not to be received, which be<g ref="char:EOLhyphen"/>ing ſo taken oppugneth other ſcriptures: ſo neither is that thought to be Gods ordinance, which oppoſeth the generall good of mans ſalvation.</p>
+            <p>
+               <hi>The</hi> minor <hi>is thus proved.</hi>
+            </p>
+            <p>Whatſoever hindereth not either the covenant of Gods election, or the influence of the ſpirit from working faith and repentance; yea, which hindereth not the increaſe of grace in any that are actually in Gods favour; that cannot be a prejudice to the ſalvation of any, but to take in for Members of a Church, ſuch onely as are viſibly holy, doth none of theſe; it neither hindereth the covenant of Gods electi<g ref="char:EOLhyphen"/>on, nor the influence of the ſpirit in working faith and repentance, nei<g ref="char:EOLhyphen"/>ther doth it hinder the increaſe of grace in any that are actually in Gods favour,</p>
+            <p>
+               <hi>Ergo</hi> to take in only ſuch qualified Members is ſafely and ſecurely to be practiſed.</p>
+            <p>The <hi>major</hi> being granted.</p>
+            <p>The <hi>minor</hi> propoſition is grounded from the example of the woman of <hi>Canaan,</hi> who was no viſible Member of a Church; and yet her faith was greater then any's in <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <pb n="24" facs="tcp:33522:19" rendition="simple:additions"/>If indeed we were popiſh in our beliefe, that the Sacraments were not only ſeales, but meanes of grace, ſo farre that they give grace <hi>ex opere operate;</hi> then there might be ſome queſtion in the point: But our beliefe is, that one either well catechiſed, or preached unto, wanteth nothing externall, ſimply neceſſary to ſalvation.</p>
+            <p>If any doe now object, that if we can with ſuch ſafety be out of this externall Church communion, wherefore then, as well not out as in, to what end is it to become a member? To which we anſwer; Firſt, that this might be as ſafely objected to any profeſſed ordinance, which all acknowledge to be of God. May we not thus except a<g ref="char:EOLhyphen"/>gainſt Baptiſme, or the word preached? May not reading ſerve inſtead of preaching; or is it not enough to hear of the doctrin of Baptiſme? There<g ref="char:EOLhyphen"/>fore as in ſuch cavils the uſuall anſwer is: That not the want of an Ordi<g ref="char:EOLhyphen"/>nance, but the contempt, is damnable; and that ordinance is contemn<g ref="char:EOLhyphen"/>ed, which we might enjoy, and do not. The ſame anſwer will ſerve for this preſent purpoſe: When we may become members, and are not gathered, tis our contempt. Secondly, this exception would ſerve, if we held that Church-communion were only for our ſelves; but this we doe not: Church-communion is for more neceſſary and import<g ref="char:EOLhyphen"/>ent ends; as firſt, that Gods will and command in this particular, might be fulfilled and done; and this all parties confeſſe, not only by their owne practiſe; but by beleeving the communion of Saints. Se<g ref="char:EOLhyphen"/>condly, this Church-fellowſhip is the Citie ſet upon an hill, and a light<g ref="char:EOLhyphen"/>ed candle ſet upon a candleſtick, that others might ſee this <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly work, and ſo glorifie God for it in the day of their converſion.</p>
+            <trailer>FINIS.</trailer>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:20"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:21"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:21"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:22"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:22"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:23"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:23"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:33522:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:33522:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:33522:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:33522:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:33522:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:33522:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:33522:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:33522:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:33522:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:33522:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:33522:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:33522:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:33522:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:33522:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33522:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:33522:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:33522:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:33522:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:33522:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="21" facs="tcp:33522:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:33522:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:33522:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="24" facs="tcp:33522:37"/>
+         </div>
+      </body>
+   </text>
+</TEI>
